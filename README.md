@@ -1,2 +1,4 @@
-# Java-
-新手学习Java教程
+Java学习之路
+
+Hi, I'm a new learner of java! 
+Keep studying, keep thinking and you win the world.
